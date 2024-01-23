@@ -13,3 +13,6 @@
 
 # .pem files
 *.pem
+
+# do not commit the local backend
+backend_local.tf
