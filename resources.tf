@@ -20,6 +20,7 @@ locals {
     Envirnment  = var.environment
     BillingCode = var.billing_code
     Workspace   = terraform.workspace
+    MyTag       = "example"
   }
 }
 
